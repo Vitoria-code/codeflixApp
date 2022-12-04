@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#121212',
     borderTopLeftRadius: 8,
     borderTopRightRadius: 8,
+    width: '100%',
   },
   btnVoltar: {
     borderTopLeftRadius: 8,
